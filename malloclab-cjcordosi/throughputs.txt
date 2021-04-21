@@ -1,0 +1,6 @@
+Intel(R)Xeon(R)CPUE5-1620v3@3.50GHz:regular:20092
+<<<<<<< HEAD
+Intel(R)Core(TM)i7-5820KCPU@3.30GHz:regular:4519
+=======
+Intel(R)Core(TM)i7-8750HCPU@2.20GHz:regular:18794
+>>>>>>> d736cc56d0b6eda7b8591c70b547f5a04bf3a902
